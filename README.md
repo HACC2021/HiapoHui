@@ -8,7 +8,7 @@ This soution was built using the following Salesforce features, and only with Sa
 * Digital Experience
 * Flows
 * Einstein Bot
-* Cha!
+* Chat
 * Knowledge
 * Articles
 * Topics
